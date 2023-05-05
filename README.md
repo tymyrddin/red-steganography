@@ -1,2 +1,3 @@
-# red-steganography
+# Hidden messages
+
 Steganography
