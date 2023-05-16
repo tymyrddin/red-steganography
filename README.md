@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/red-steganography/badge/?version=latest)](https://red.tymyrddin.dev/projects/stegano/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5264f01-7754-4336-af9d-43459114e7c5/deploy-status)](https://app.netlify.com/sites/teal-maamoul-70f955/deploys)
 
 ## Requirements
 
