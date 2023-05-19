@@ -26,3 +26,5 @@ What is needed today to protect from information theft, and to detect encryption
 ## Coming up
 
 Cryptography is about encrypting messages so that they can be read only by someone who has the key. Steganography hides messages so that their very existence is undetectable. Both forms of secret communication are being used, overt and covert.
+
+Like all security technology, steganography is not perfect. If someone knows it is there and knows the algorithm that was used to hide it, and if the message is not encrypted, he or she can read it. Even if the message is encrypted, in some cases just knowing that data has been hidden in a file is enough to raise suspicions.

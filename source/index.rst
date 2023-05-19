@@ -1,4 +1,4 @@
-Hidden messages
+Steganography
 ==========================================
 
 The art of hiding information
@@ -26,6 +26,21 @@ The art of hiding information
 
    docs/root-me/README.md
    docs/root-me/exif-metadata.md
+   docs/root-me/dot.md
+   docs/root-me/mobile.md
+   docs/root-me/twitter.md
+   docs/root-me/nuit.md
+   docs/root-me/wav-noise.md
+   docs/root-me/poem.md
+   docs/root-me/dots.md
+   docs/root-me/exif-thumb.md
+   docs/root-me/wav-spectrum.md
+   docs/root-me/apng.md
+   docs/root-me/art.md
+   docs/root-me/pdf-embedded.md
+   docs/root-me/png-lsb.md
+   docs/root-me/png-pit.md
+   docs/root-me/png-pvd.md
 
 ----
 
